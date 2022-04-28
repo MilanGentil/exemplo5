@@ -1,0 +1,15 @@
+ p.centro {
+
+            text-align: center; /* os parágrafos com class = centro vão ser centrados*/
+
+            color: red; /* os parágrafos com class = centro serão vermelhos*/
+
+         }
+
+   
+
+         p.largo {
+
+            font-size: 300%; /* os parágrafos com class = largo ter de de tamanho 300%*/
+
+         }
